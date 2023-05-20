@@ -121,6 +121,10 @@ Adds a dependency on [hashbrown](https://docs.rs/hashbrown) and enables conversi
 
 Adds a dependency on [indexmap](https://docs.rs/indexmap) and enables conversions into its [`IndexMap`](https://docs.rs/indexmap/latest/indexmap/map/struct.IndexMap.html) type.
 
+### `malachite-bigint`
+
+Adds a dependency on [malachite-bigint](https://docs.rs/malachite-bigint) and enables conversions into its [`BigInt`](https://docs.rs/malachite-bigint/latest/malachite_bigint/struct.BigInt.html) and [`BigUint`](https://docs.rs/malachite-bigint/latest/malachite_bigint/struct.BigUInt.html) types.
+
 ### `num-bigint`
 
 Adds a dependency on [num-bigint](https://docs.rs/num-bigint) and enables conversions into its [`BigInt`](https://docs.rs/num-bigint/latest/num_bigint/struct.BigInt.html) and [`BigUint`](https://docs.rs/num-bigint/latest/num_bigint/struct.BigUInt.html) types.
