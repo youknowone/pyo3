@@ -274,6 +274,7 @@
 //! [`hashbrown`]: ./hashbrown/index.html "Documentation about the `hashbrown` feature."
 //! [indexmap_feature]: ./indexmap/index.html "Documentation about the `indexmap` feature."
 //! [`maturin`]: https://github.com/PyO3/maturin "Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages"
+//! [`malachite-bigint`]: ./malachite_bigint/index.html "Documentation about the `malachite-bigint` feature."
 //! [`num-bigint`]: ./num_bigint/index.html "Documentation about the `num-bigint` feature."
 //! [`num-complex`]: ./num_complex/index.html "Documentation about the `num-complex` feature."
 //! [`pyo3-build-config`]: https://docs.rs/pyo3-build-config
@@ -288,6 +289,7 @@
 //! [hashbrown]: https://docs.rs/hashbrown
 //! [indexmap]: https://docs.rs/indexmap
 //! [manual_builds]: https://pyo3.rs/latest/building_and_distribution.html#manual-builds "Manual builds - Building and Distribution - PyO3 user guide"
+//! [malachite-bigint]: https://docs.rs/malachite-bigint
 //! [num-bigint]: https://docs.rs/num-bigint
 //! [num-complex]: https://docs.rs/num-complex
 //! [serde]: https://docs.rs/serde
